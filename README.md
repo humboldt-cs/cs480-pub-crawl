@@ -1,1 +1,3 @@
-# cs480-pub-crawl
+# Pub-Crawler-App
+Social media application for partier to coordinate partying activities. 
+Written in Java using Android Studio.
