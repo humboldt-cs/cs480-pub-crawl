@@ -16,7 +16,7 @@ To enhance the party-adventurers next night out with this charming and easy to u
 ### App Evaluation
 [Evaluation of your app across the following attributes]
 - **Category:** Social App
-- **Mobile:** The app is geared to be used "on the fly" as a group of friends organize and travel to different destinations across a given city. It uses real-time technology, such as maps, location info and recommendations, and user/friends status.
+- **Mobile:** The app is geared to be used "on the fly" as a group of friends organize and travel to different destinations across a city's night-life ecosystem. It uses real-time technology, such as maps, location info and recommendations, and user/friends status.
 - **Story:** Allows very feasible ways to coordinate night-out, 
 - **Market:**
 - **Habit:**
