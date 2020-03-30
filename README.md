@@ -20,6 +20,7 @@ To enhance the party-adventurers next night out with this charming and easy to u
 - **Market:**
 - **Habit:**
 - **Scope:**
+
 I can affirm that if this app were completed and available on the Play Store, I and fellow friends would be using this app on a weekly basis minimum.
 
 ## Product Spec
