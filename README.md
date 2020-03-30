@@ -10,6 +10,7 @@
 ### Description
 Social media application for partier to coordinate partying activities. 
 Written in Java using Android Studio.
+To enhance the party-goers next night out with this charming and easy to use mobile experience. 
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
