@@ -82,9 +82,15 @@ D. Epic 4 - Drink tracker -> keeping track of what you and/or your friends are c
 
 * Login Screen
 
+  * logs in user OR refers user to the register screen
+
 * Register Screen
 
+  * registers user and immediately logins them in
+
 * Profile Screen
+
+  * My Account info
 
 * Settings Screen
 
