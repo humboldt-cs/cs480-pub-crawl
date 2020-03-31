@@ -58,6 +58,10 @@ D. Epic 4 -  Drink tracker -> keeping track of what you and/or your friends are 
 
 * As someone who cares about my physical/financial health, I should be able to keep a tally of how much I've had to drink today, what I drank, and where.
 
+E. Other Required User Stories
+
+*
+
 **Optional Nice-to-have Stories**
 
 A. Epic 1 - MapScreen
@@ -77,6 +81,10 @@ D. Epic 4 - Drink tracker -> keeping track of what you and/or your friends are c
 * As a friend, I should be able to see and share my friends' records for how much they've had to drink so I can choose to join them or not.
 
 * As a busy and probably not sober user, I should be able to interact with this feature on the main map screen for convenient use.
+
+E. Other Optional User Stories
+
+*
 
 ### 2. Screen Archetypes
 
