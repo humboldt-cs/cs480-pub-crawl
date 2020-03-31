@@ -47,14 +47,8 @@ B. Epic 2 - Event Planner -> Allow users to plan out the night like an itinerary
 * As a person who wants to stay in my location, I should be able to delay the timers on my schedule and edit timings, or cancel locations on my schedule.
 
  * Can choose to skip or delay the timer incase users want to stay in one location.
-
-C. Epic 3 - Bar, restaurant, kareoke, game-night, music venues -> college town type of events going on in town
-
-* As a user, I should be able to see the locations of bars and other venues in my region
-
-* As someone looking for social interaction, I should be able to see on the map which venue the most people are currently at, based on user data collected from the app.
-
-D. Epic 4 -  Night tracker -> keeping track of what you and/or your friends are doing throughout the night
+ 
+C. Epic 3 -  Night tracker -> keeping track of what you and/or your friends are doing throughout the night
 
 * As someone wanting to reminisce, I want to keep a copy of the itinerary that was updated throughout the night
 
@@ -62,7 +56,13 @@ D. Epic 4 -  Night tracker -> keeping track of what you and/or your friends are 
 
  * Drink tracker -> keeping track of what you and/or your friends are consuming throughout the night -> keeps track of sobriety and track of experience for record keeping
 
-E. Other Required User Stories
+D. Epic 4 - Bar, restaurant, kareoke, game-night, music venues -> college town type of events going on in town
+
+* As a user, I should be able to see the locations of bars and other venues in my region
+
+* As someone looking for social interaction, I should be able to see on the map which venue the most people are currently at, based on user data collected from the app.
+
+E. Other Misc Required User Stories
 
 * As a user ready to descend on the night-life scene, I want to see what events are playing and who is doing what or wants to do what
  
@@ -80,11 +80,7 @@ B. Epic 2 - Event Planner -> Allow users to plan out the night like an itinerary
 
 *
 
-C. Epic 3 - Bar, restaurant, kareoke, game-night, music venues -> college town type of events going on in town
-
-* As someone who likes to party, I should be able to filter the list of locations in my area to see attributes, like which places serve alcohol and which places are currently open.
-
-D. Epic 4 -  Night tracker -> keeping track of what you and/or your friends are doing throughout the night
+C. Epic 3 -  Night tracker -> keeping track of what you and/or your friends are doing throughout the night
 
 * Link to ride sharing service ie uber to avoid drunk driving
 
@@ -92,7 +88,11 @@ D. Epic 4 -  Night tracker -> keeping track of what you and/or your friends are 
 
 * As a busy and probably not sober user, I should be able to interact with this feature on the main map screen for convenient use.
 
-E. Other Optional User Stories
+D. Epic 4 - Bar, restaurant, kareoke, game-night, music venues -> college town type of events going on in town
+
+* As someone who likes to party, I should be able to filter the list of locations in my area to see attributes, like which places serve alcohol and which places are currently open.
+
+E. Other Misc Optional User Stories
 
 * Based on user information, can make event recommendations
 
