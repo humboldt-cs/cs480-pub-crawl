@@ -50,7 +50,7 @@ C. Epic 3 - Bar, restaurant, kareoke, game-night, music venues -> college town t
 
 * As a user, I should be able to see the locations of bars and other venues in my region
 
-* As someone looking for social interaction (;u;), I should be able to see on the map which venue the most people are currently at, based on user data collected from the app.
+* As someone looking for social interaction, I should be able to see on the map which venue the most people are currently at, based on user data collected from the app.
 
 D. Epic 4 -  Drink tracker -> keeping track of what you and/or your friends are consuming throughout the night -> keeps track of sobriety and track of experience for record keeping
 
@@ -64,9 +64,7 @@ E. Other Required User Stories
  
 * As a user, I want to create a plan for me or my friends listing what I'd like to do or what I plan on doing
 
-* As a user, I want to be able to record my night either for future reminiscing or alert of my alcohol/drug use status for my safety
-
-* 
+* As a user, I want to be able to record my night to share with other friends, for future reminiscing, or alert of my alcohol/drug use status for my safety
 
 **Optional Nice-to-have Stories**
 
