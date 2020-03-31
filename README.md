@@ -58,11 +58,9 @@ D. Epic 4 -  Night tracker -> keeping track of what you and/or your friends are 
 
 * As someone wanting to reminisce, I want to keep a copy of the itinerary that was updated throughout the night
 
-* Drink tracker -> keeping track of what you and/or your friends are consuming throughout the night -> keeps track of sobriety and track of experience for record keeping
+* As someone who cares about my physical/financial health and As someone who spends too much money, drinks too much, or blacks out: I should be able to keep a tally of how much I've had to drink today, what I drank, and where; I should be able to view a record of what I drank on a certain date, and where
 
-* As someone who spends too much money, drinks too much, or blacks out: I should be able to view a record of what I drank on a certain date, and where.
-
-* As someone who cares about my physical/financial health, I should be able to keep a tally of how much I've had to drink today, what I drank, and where.
+ * Drink tracker -> keeping track of what you and/or your friends are consuming throughout the night -> keeps track of sobriety and track of experience for record keeping
 
 E. Other Required User Stories
 
@@ -74,11 +72,11 @@ E. Other Required User Stories
 
 **Optional Nice-to-have Stories**
 
-A. Epic 1 - MapScreen
+A. Epic 1 - MapScreen -> Events and Friends Real Time Display
 
 *
 
-B. Epic 2 - Allow users to plan out the night like an itinerary -> timer feature to alert users when to move onto the next activity
+B. Epic 2 - Event Planner -> Allow users to plan out the night like an itinerary
 
 *
 
@@ -86,7 +84,9 @@ C. Epic 3 - Bar, restaurant, kareoke, game-night, music venues -> college town t
 
 * As someone who likes to party, I should be able to filter the list of locations in my area to see attributes, like which places serve alcohol and which places are currently open.
 
-D. Epic 4 - Drink tracker -> keeping track of what you and/or your friends are consuming throughout the night -> keeps track of sobriety and track of experience for record keeping
+D. Epic 4 -  Night tracker -> keeping track of what you and/or your friends are doing throughout the night
+
+* Link to ride sharing service ie uber to avoid drunk driving
 
 * As a friend, I should be able to see and share my friends' records for how much they've had to drink so I can choose to join them or not.
 
