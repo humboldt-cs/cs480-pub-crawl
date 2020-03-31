@@ -43,10 +43,10 @@ B. Epic 2 - Event Planner -> Allow users to plan out the night like an itinerary
 * As a person who is currently out on the town, I should receive notifications telling me when it's time to move to the next bar on my schedule.
 
  * Timer feature to alert users when to move onto the next activity
- 
- * Can choose to skip or delay the timer incase users want to stay in one location.
 
 * As a person who wants to stay in my location, I should be able to delay the timers on my schedule and edit timings, or cancel locations on my schedule.
+
+ * Can choose to skip or delay the timer incase users want to stay in one location.
 
 C. Epic 3 - Bar, restaurant, kareoke, game-night, music venues -> college town type of events going on in town
 
@@ -115,16 +115,28 @@ E. Other Optional User Stories
 * Map Screen
 
  * real-time display of local events and friends
+ 
+ * As a person actively getting lit, I should be able to display my GPS location in real time so my friends can join me.
+ 
+ * As a user, I should be able to set permissions for who can view my location.
 
 * Stream Screen
 
 * Creation Screen
+
+ * As a person planning to go out later, I should be able to make a schedule for where I want to be and when.
 
  * Event Planning Feature
 
 * Detail Screen
 
  * Details of Creation Screen
+ 
+ * As a person planning to go out later, I should be able to make a schedule for where I want to be and when.
+ 
+ * As a person who is currently out on the town, I should receive notifications telling me when it's time to move to the next bar on my schedule.
+ 
+ * As a person who wants to stay in my location, I should be able to delay the timers on my schedule and edit timings, or cancel locations on my schedule.
 
 ### 3. Navigation
 
