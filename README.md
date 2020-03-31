@@ -60,7 +60,13 @@ D. Epic 4 -  Drink tracker -> keeping track of what you and/or your friends are 
 
 E. Other Required User Stories
 
-*
+* As a user ready to descend on the night-life scene, I want to see what events are playing and who is doing what or wants to do what
+ 
+* As a user, I want to create a plan for me or my friends listing what I'd like to do or what I plan on doing
+
+* As a user, I want to be able to record my night either for future reminiscing or alert of my alcohol/drug use status for my safety
+
+* 
 
 **Optional Nice-to-have Stories**
 
@@ -84,7 +90,7 @@ D. Epic 4 - Drink tracker -> keeping track of what you and/or your friends are c
 
 E. Other Optional User Stories
 
-*
+* Based on user information, can make event recommendations
 
 ### 2. Screen Archetypes
 
