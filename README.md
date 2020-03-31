@@ -17,9 +17,9 @@ To enhance the party-adventurers next night out with this charming and easy to u
 [Evaluation of your app across the following attributes]
 - **Category:** Social App
 - **Mobile:** The app is geared to be used "on the fly" as a group of friends organize and travel to different destinations across a city's night-life ecosystem. It uses real-time technology, such as maps, location info and recommendations, and user/friends status.
-- **Story:** Allows very feasible ways to coordinate night-out, 
-- **Market:**
-- **Habit:** Its after 5, works done, its the weekend, etc, and the user is determined they are now in "party-mode" until they're tucked neatly into bed. They're looking for fun things to do and fun friends to do it with. Our app is geared as a companion to enhance that experience from beginning to end. The user is to associate this mode, mentality, and experience with our app. 
+- **Story:** The app is used as a way to enhance every individual aspect of "going out on the town" and having a good time. Allows very straightforward ways of coordinating whats going down on the town and which friends are looking to have fun. Allows users feasible ways to capture their experience admist a night of fun and euphoria to later reminisce about. Incorporates a drink counter alert and ride sharing link so users can stay safe and worry less. Helps keep the night dynamic by alerting users to interesting events going on and keep the user on track if they have made an itinerary for the night.
+- **Market:** 
+- **Habit:** Its after 5, works done, its the weekend, etc, and the user is determined they are now in "party-mode" until they're tucked neatly into bed. They're looking for fun things to do and fun friends to do it with. Our app is geared as a companion to enhance that experience from beginning to end. The user is to associate this mode, mentality, and experience with our app. Anticipated the average user uses the app on a bi-weekly basis, each session for a few hours at a time.
 - **Scope:**
 
 I can affirm that if this app were completed and available on the Play Store, I and fellow friends would be using this app on a weekly basis minimum.
