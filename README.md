@@ -80,10 +80,24 @@ D. Epic 4 - Drink tracker -> keeping track of what you and/or your friends are c
 
 ### 2. Screen Archetypes
 
+* Login Screen
+
+* Register Screen
+
+* Profile Screen
+
+* Settings Screen
+
+* Map Screen
+
+* Stream Screen
+
+* Creation Screen
+
+* Detail Screen
+
+
 * [list first screen here]
-   * [list associated required story here]
-   * ...
-* [list second screen here]
    * [list associated required story here]
    * ...
 
