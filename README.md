@@ -114,16 +114,17 @@ E. Other Optional User Stories
 
 * Map Screen
 
+ * real-time display of local events and friends
+
 * Stream Screen
 
 * Creation Screen
 
+ * Event Planning Feature
+
 * Detail Screen
 
-
-* [list first screen here]
-   * [list associated required story here]
-   * ...
+ * Details of Creation Screen
 
 ### 3. Navigation
 
