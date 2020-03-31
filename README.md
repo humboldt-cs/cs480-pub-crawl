@@ -29,9 +29,39 @@ I can affirm that if this app were completed and available on the Play Store, I 
 ### 1. User Stories (Required and Optional)
 
 **Required Must-have Stories**
+A. Epic - MapScreen
 
-* [fill in your required user stories here]
-* ...
+* As a person actively getting lit, I should be able to display my GPS location in real time so my friends can join me.
+
+* As a user, I should be able to set permissions for who can view my location.
+
+B. Epic - Allow users to plan out the night like an itinerary -> timer feature to alert users when to move onto the next activity
+
+* Can choose to skip or delay the timer incase users want to stay in one location.
+
+* As a person planning to go out later, I should be able to make a schedule for where I want to be and when.
+
+* As a person who is currently out on the town, I should receive notifications telling me when it's time to move to the next bar on my schedule.
+
+* As a person who wants to stay in my location, I should be able to delay the timers on my schedule and edit timings, or cancel locations on my schedule.
+
+C. Epic - Bar, restaurant, kareoke, game-night, music venues -> college town type of events going on in town
+
+* As a user, I should be able to see the locations of bars and other venues in my region
+
+* As someone who likes to party, I should be able to filter the list of locations in my area to see attributes, like which places serve alcohol and which places are currently open.
+
+* As someone looking for social interaction (;u;), I should be able to see on the map which venue the most people are currently at, based on user data collected from the app.
+
+D. Epic -  Drink tracker -> keeping track of what you and/or your friends are consuming throughout the night -> keeps track of sobriety and track of experience for record keeping
+
+* As someone who spends too much money, drinks too much, or blacks out: I should be able to view a record of what I drank on a certain date, and where.
+
+* As someone who cares about my physical/financial health, I should be able to keep a tally of how much I've had to drink today, what I drank, and where.
+
+* As a friend, I should be able to see and share my friends' records for how much they've had to drink so I can choose to join them or not.
+
+* As a busy and probably not sober user, I should be able to interact with this feature on the main map screen for convenient use.
 
 **Optional Nice-to-have Stories**
 
