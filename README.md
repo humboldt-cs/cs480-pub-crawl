@@ -29,6 +29,7 @@ I can affirm that if this app were completed and available on the Play Store, I 
 ### 1. User Stories (Required and Optional)
 
 **Required Must-have Stories**
+
 A. Epic - MapScreen
 
 * As a person actively getting lit, I should be able to display my GPS location in real time so my friends can join me.
