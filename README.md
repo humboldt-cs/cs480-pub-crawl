@@ -108,11 +108,17 @@ E. Other Optional User Stories
 
 * Profile Screen
 
-  * My Account info
+ * As someone wanting to reminisce, I want to keep a copy of the itinerary that was updated throughout the night.
+
+ * My Account info
 
 * Settings Screen
 
 * Map Screen
+
+ * As someone looking for social interaction, I should be able to see on the map which venue the most people are currently at, based on user data collected from the app.
+
+ * As a user, I should be able to see the locations of bars and other venues in my region
 
  * real-time display of local events and friends
  
@@ -122,6 +128,8 @@ E. Other Optional User Stories
 
 * Stream Screen
 
+ * As a user, I should be able to see the locations of bars and other venues in my region
+
 * Creation Screen
 
  * As a person planning to go out later, I should be able to make a schedule for where I want to be and when.
@@ -129,6 +137,10 @@ E. Other Optional User Stories
  * Event Planning Feature
 
 * Detail Screen
+
+ * As someone wanting to reminisce, I want to keep a copy of the itinerary that was updated throughout the night.
+
+ * As someone who cares about my physical/financial health and As someone who spends too much money, drinks too much, or blacks out: I should be able to keep a tally of how much I've had to drink today, what I drank, and where; I should be able to view a record of what I drank on a certain date, and where
 
  * Details of Creation Screen
  
