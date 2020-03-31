@@ -30,13 +30,13 @@ I can affirm that if this app were completed and available on the Play Store, I 
 
 **Required Must-have Stories**
 
-A. Epic - MapScreen
+A. Epic 1 - MapScreen
 
 * As a person actively getting lit, I should be able to display my GPS location in real time so my friends can join me.
 
 * As a user, I should be able to set permissions for who can view my location.
 
-B. Epic - Allow users to plan out the night like an itinerary -> timer feature to alert users when to move onto the next activity
+B. Epic 2 - Allow users to plan out the night like an itinerary -> timer feature to alert users when to move onto the next activity
 
 * Can choose to skip or delay the timer incase users want to stay in one location.
 
@@ -46,7 +46,7 @@ B. Epic - Allow users to plan out the night like an itinerary -> timer feature t
 
 * As a person who wants to stay in my location, I should be able to delay the timers on my schedule and edit timings, or cancel locations on my schedule.
 
-C. Epic - Bar, restaurant, kareoke, game-night, music venues -> college town type of events going on in town
+C. Epic 3 - Bar, restaurant, kareoke, game-night, music venues -> college town type of events going on in town
 
 * As a user, I should be able to see the locations of bars and other venues in my region
 
@@ -54,7 +54,7 @@ C. Epic - Bar, restaurant, kareoke, game-night, music venues -> college town typ
 
 * As someone looking for social interaction (;u;), I should be able to see on the map which venue the most people are currently at, based on user data collected from the app.
 
-D. Epic -  Drink tracker -> keeping track of what you and/or your friends are consuming throughout the night -> keeps track of sobriety and track of experience for record keeping
+D. Epic 4 -  Drink tracker -> keeping track of what you and/or your friends are consuming throughout the night -> keeps track of sobriety and track of experience for record keeping
 
 * As someone who spends too much money, drinks too much, or blacks out: I should be able to view a record of what I drank on a certain date, and where.
 
@@ -66,8 +66,23 @@ D. Epic -  Drink tracker -> keeping track of what you and/or your friends are co
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
-* ...
+A. Epic 1 - MapScreen
+
+*
+
+B. Epic 2 - Allow users to plan out the night like an itinerary -> timer feature to alert users when to move onto the next activity
+
+*
+
+C. Epic 3 - Bar, restaurant, kareoke, game-night, music venues -> college town type of events going on in town
+
+*
+
+D. Epic 4 - Drink tracker -> keeping track of what you and/or your friends are consuming throughout the night -> keeps track of sobriety and track of experience for record keeping
+
+*
+
+
 
 ### 2. Screen Archetypes
 
