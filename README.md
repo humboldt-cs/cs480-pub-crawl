@@ -193,9 +193,8 @@ E. Other Misc Optional User Stories
    * [On Profile -> Profile]
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
-<img src="https://imgur.com/a/ZAZBCfc" width=600>
-<img src="https://imgur.com/a/9nrBHPP" width=600>
+<img src="https://i.imgur.com/aoIki2C.jpg" width=600>
+<img src="https://i.imgur.com/AnWOgsu.jpg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
