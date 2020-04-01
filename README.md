@@ -160,16 +160,42 @@ E. Other Misc Optional User Stories
 
 **Flow Navigation** (Screen to Screen)
 
-* [list first screen here]
-   * [list screen navigation here]
-   * ...
-* [list second screen here]
-   * [list screen navigation here]
-   * ...
+* [Login/Register]
+   * [On Login -> Main Menu]
+   * [On Register -> Sign up]
+* [Main Menu]
+   * [On Hamburger click -> open side app drawer]
+   * [On Settings -> Settings]
+   * [On Party Stream -> Party Stream]
+   * [On Create Session -> Create session]
+   * [On Profile -> Profile]
+* [Party Stream]
+   * [On Hamburger click -> open side app drawer]
+   * [On Settings -> Settings]
+   * [On Main Menu -> Main Menu]
+   * [On Create Session -> Create session]
+   * [On Profile -> Profile]
+* [Create Session]
+   * [On Create Session -> Party Stream (in session)]
+   * [On Hamburger click -> open side app drawer]
+   * [On Settings -> Settings]
+   * [On Main Menu -> Main Menu]
+   * [On Profile -> Profile]
+* [Profile]
+   * [On Hamburger click -> open side app drawer]
+   * [On Settings -> Settings]
+   * [On Main Menu -> Main Menu]
+   * [On Create Session -> Create session]
+* [Settings]
+   * [On Hamburger click -> open side app drawer]
+   * [On Main Menu -> Main Menu]
+   * [On Create Session -> Create session]
+   * [On Profile -> Profile]
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="https://imgur.com/a/ZAZBCfc" width=600>
+<img src="https://imgur.com/a/9nrBHPP" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
