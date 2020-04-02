@@ -160,7 +160,9 @@ E. Other Misc Optional User Stories
 
 * [Login/Register]
    * [On Login -> Main Menu]
-   * [On Register -> Sign up]
+   * [On Sign Up -> Register]
+* [Register]
+   * [On Login -> Main Menu]
 * [Main Menu]
    * [On Hamburger click -> open side app drawer]
    * [On Settings -> Settings]
