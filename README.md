@@ -152,9 +152,11 @@ E. Other Misc Optional User Stories
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Home Feed/Stream Screen
+* Map Screen
+* Create Screen/Itinerary
+* Profile Screen
+  * Within Profile is Settings Screen
 
 **Flow Navigation** (Screen to Screen)
 
