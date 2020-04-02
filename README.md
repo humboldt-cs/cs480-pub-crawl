@@ -125,9 +125,7 @@ E. Other Misc Optional User Stories
   * As a person actively getting lit, I should be able to display my GPS location in real time so my friends can join me.
  
   * As a user, I should be able to set permissions for who can view my location.
-
-* Stream Screen
-
+  
   * As a user, I should be able to see the locations of bars and other venues in my region
 
 * Creation Screen
@@ -136,7 +134,7 @@ E. Other Misc Optional User Stories
 
   * Event Planning Feature
 
-* Detail Screen
+* Stream/Detail Screen
 
   * As someone wanting to reminisce, I want to keep a copy of the itinerary that was updated throughout the night.
 
