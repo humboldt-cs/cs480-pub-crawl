@@ -156,7 +156,7 @@ E. Other Misc Optional User Stories
 * Map Screen
 * Create Screen/Itinerary
 * Profile Screen
-  * Within Profile is Settings Screen
+* Settings Screen
 
 **Flow Navigation** (Screen to Screen)
 
