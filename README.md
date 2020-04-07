@@ -205,7 +205,34 @@ E. Other Misc Optional User Stories
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
-[Add table of models]
+Model: User 
+
+| Property | Type | Description |
+| --------- | ------| ------------- |
+| objectId | String | unique ID for user |
+| username | String | username for login |
+| password | String | password for login | 
+| email | String | user's email address | 
+| name | String | user's name |
+
+Model: Drink 
+
+| Property | Type | Description | 
+| ---------- | ---- | ------------- |
+| user | Pointer <_User> | which user had the drink |
+| type | String | what kind of drink (beer, wine, etc.) | 
+| quantity | Number | how much of that drink was had | 
+| location | GeoPoint | where that drink was had | 
+| dateDrank | Date |  when the drink was had |
+
+Model: Schedule 
+
+| Property | Type | Description |
+| ---------- | ---- | ------------- |
+| location | GeoPoint | itinerary item: where to be |
+| startTime | Date | when to be at that location | 
+| endTime | Date | when to leave that location |
+
 ### Networking
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
