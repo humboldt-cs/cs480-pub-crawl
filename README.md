@@ -199,8 +199,10 @@ E. Other Misc Optional User Stories
 <img src="https://i.imgur.com/AnWOgsu.jpg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
+* https://www.figma.com/file/Ob60uh4zGWYOr7froocubG/PubC?node-id=0%3A1
 
 ### [BONUS] Interactive Prototype
+* https://www.figma.com/file/Ob60uh4zGWYOr7froocubG/PubC?node-id=0%3A1
 
 ## Schema 
 [This section will be completed in Unit 9]
