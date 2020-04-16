@@ -32,43 +32,43 @@ I can affirm that if this app were completed and available on the Play Store, I 
 
 A. Epic 1 - MapScreen -> Events and Friends Real Time Display
 
-* As a person actively getting lit, I should be able to display my GPS location in real time so my friends can join me.
+- [ ] As a person actively getting lit, I should be able to display my GPS location in real time so my friends can join me.
 
-* As a user, I should be able to set permissions for who can view my location.
+- [ ] As a user, I should be able to set permissions for who can view my location.
 
 B. Epic 2 - Event Planner -> Allow users to plan out the night like an itinerary
 
-* As a person planning to go out later, I should be able to make a schedule for where I want to be and when.
+- [ ] As a person planning to go out later, I should be able to make a schedule for where I want to be and when.
 
-* As a person who is currently out on the town, I should receive notifications telling me when it's time to move to the next bar on my schedule.
+- [ ] As a person who is currently out on the town, I should receive notifications telling me when it's time to move to the next bar on my schedule.
 
- * Timer feature to alert users when to move onto the next activity
+- [ ] Timer feature to alert users when to move onto the next activity
 
-* As a person who wants to stay in my location, I should be able to delay the timers on my schedule and edit timings, or cancel locations on my schedule.
+- [ ] As a person who wants to stay in my location, I should be able to delay the timers on my schedule and edit timings, or cancel locations on my schedule.
 
- * Can choose to skip or delay the timer incase users want to stay in one location.
+- [ ] Can choose to skip or delay the timer incase users want to stay in one location.
  
 C. Epic 3 -  Night tracker -> keeping track of what you and/or your friends are doing throughout the night
 
-* As someone wanting to reminisce, I want to keep a copy of the itinerary that was updated throughout the night
+- [ ] As someone wanting to reminisce, I want to keep a copy of the itinerary that was updated throughout the night
 
-* As someone who cares about my physical/financial health and As someone who spends too much money, drinks too much, or blacks out: I should be able to keep a tally of how much I've had to drink today, what I drank, and where; I should be able to view a record of what I drank on a certain date, and where
+- [ ] As someone who cares about my physical/financial health and As someone who spends too much money, drinks too much, or blacks out: I should be able to keep a tally of how much I've had to drink today, what I drank, and where; I should be able to view a record of what I drank on a certain date, and where
 
- * Drink tracker -> keeping track of what you and/or your friends are consuming throughout the night -> keeps track of sobriety and track of experience for record keeping
+- [ ] Drink tracker -> keeping track of what you and/or your friends are consuming throughout the night -> keeps track of sobriety and track of experience for record keeping
 
 D. Epic 4 - Bar, restaurant, kareoke, game-night, music venues -> college town type of events going on in town
 
-* As a user, I should be able to see the locations of bars and other venues in my region
+- [ ] As a user, I should be able to see the locations of bars and other venues in my region
 
-* As someone looking for social interaction, I should be able to see on the map which venue the most people are currently at, based on user data collected from the app.
+- [ ] As someone looking for social interaction, I should be able to see on the map which venue the most people are currently at, based on user data collected from the app.
 
 E. Other Misc Required User Stories
 
-* As a user ready to descend on the night-life scene, I want to see what events are playing and who is doing what or wants to do what
+- [ ] As a user ready to descend on the night-life scene, I want to see what events are playing and who is doing what or wants to do what
  
-* As a user, I want to create a plan for me or my friends listing what I'd like to do or what I plan on doing
+- [ ] As a user, I want to create a plan for me or my friends listing what I'd like to do or what I plan on doing
 
-* As a user, I want to be able to record my night to share with other friends, for future reminiscing, or alert of my alcohol/drug use status for my safety
+- [ ] As a user, I want to be able to record my night to share with other friends, for future reminiscing, or alert of my alcohol/drug use status for my safety
 
 **Optional Nice-to-have Stories**
 
@@ -82,19 +82,19 @@ B. Epic 2 - Event Planner -> Allow users to plan out the night like an itinerary
 
 C. Epic 3 -  Night tracker -> keeping track of what you and/or your friends are doing throughout the night
 
-* Link to ride sharing service ie uber to avoid drunk driving
+- [ ] Link to ride sharing service ie uber to avoid drunk driving
 
-* As a friend, I should be able to see and share my friends' records for how much they've had to drink so I can choose to join them or not.
+- [ ] As a friend, I should be able to see and share my friends' records for how much they've had to drink so I can choose to join them or not.
 
-* As a busy and probably not sober user, I should be able to interact with this feature on the main map screen for convenient use.
+- [ ] As a busy and probably not sober user, I should be able to interact with this feature on the main map screen for convenient use.
 
 D. Epic 4 - Bar, restaurant, kareoke, game-night, music venues -> college town type of events going on in town
 
-* As someone who likes to party, I should be able to filter the list of locations in my area to see attributes, like which places serve alcohol and which places are currently open.
+- [ ] As someone who likes to party, I should be able to filter the list of locations in my area to see attributes, like which places serve alcohol and which places are currently open.
 
 E. Other Misc Optional User Stories
 
-* Based on user information, can make event recommendations
+- [ ] Based on user information, can make event recommendations
 
 ### 2. Screen Archetypes
 
