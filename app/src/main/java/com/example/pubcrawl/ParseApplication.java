@@ -8,11 +8,11 @@ import com.parse.ParseObject;
 public class ParseApplication extends Application
 {
     @Override
-    public void onCreate()
-    {
+    public void onCreate() {
         super.onCreate();
 
-
+        // Register parse models
+        ParseObject.registerSubclass(Event.class);
 
         // set applicationId, and server server based on the values in the Heroku settings.
         // clientKey is not needed unless explicitly configured
