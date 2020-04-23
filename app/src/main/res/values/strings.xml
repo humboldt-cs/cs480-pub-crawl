@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Pub Crawl</string>
+    <string name="schedule">Schedule</string>
+    <string name="log_out">Log out</string>
 </resources>

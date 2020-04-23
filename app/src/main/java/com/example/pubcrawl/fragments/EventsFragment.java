@@ -28,7 +28,7 @@ import java.util.List;
  */
 public class EventsFragment extends Fragment {
 
-    public static final String TAG = "PostsFragment";
+    public static final String TAG = "EventsFragment";
     private RecyclerView rvEvents;
     protected EventsAdapter adapter;
     protected List<Event> allEvents;
@@ -61,15 +61,15 @@ public class EventsFragment extends Fragment {
     protected void queryEvents() {
         // Specify which class to query
         ParseQuery<Event> query = ParseQuery.getQuery(Event.class);
-        // TODO: determine appropriate key for query.include
-        query.include(Event.KEY_OBJECT_ID);
+        // TODO: change according to which itinerary items we want displayed.
+        //  could also restrict query by date using query.whereEqualTo("startTime", [today's date at any time])
         query.setLimit(20);
         query.addDescendingOrder(Event.KEY_START_TIME);
         query.findInBackground((new FindCallback<Event>() {
             @Override
             public void done(List<Event> events, ParseException e) {
                 if (e != null) {
-                    Log.e(TAG, "Issue with getting posts", e);
+                    Log.e(TAG, "Issue with getting events", e);
                     return;
                 }
                 // if e is null, we have a list of events to show
