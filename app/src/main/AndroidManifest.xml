@@ -2,9 +2,14 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.pubcrawl">
 
+    <permission android:name="android.permission.ACCESS_FINE_LOCATION" android:protectionLevel="dangerous"/>
+    <permission android:name="android.permission.ACCESS_COARSE_LOCATION" android:protectionLevel="dangerous"/>
+
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="com.example.pubcrawl.permission.MAPS_RECEIVE" />
 
     <application
         android:allowBackup="true"
@@ -42,7 +47,17 @@
         -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="@string/google_maps_key" />
+            android:value="AIzaSyAuWtBTAIxYO6TDx3IQyNBGATk_sCQQQV4" />
+
+        <meta-data
+            android:name="com.parse.SERVER_URL"
+            android:value="https://cs480-pub-crawl.herokuapp.com/parse" />
+        <meta-data
+            android:name="com.parse.APPLICATION_ID"
+            android:value="cs480-pub-crawl" />
+        <meta-data
+            android:name="com.parse.CLIENT_KEY"
+            android:value="GettingLitInMobileApps2020" />
     </application>
 
 </manifest>
