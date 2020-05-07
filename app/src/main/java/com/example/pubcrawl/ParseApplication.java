@@ -11,9 +11,6 @@ public class ParseApplication extends Application
     public void onCreate() {
         super.onCreate();
 
-        // Register parse models
-        ParseObject.registerSubclass(Event.class);
-
         // set applicationId, and server server based on the values in the Heroku settings.
         // clientKey is not needed unless explicitly configured
         // any network interceptors must be added with the Configuration Builder given this syntax
@@ -21,5 +18,8 @@ public class ParseApplication extends Application
                 .applicationId("cs480-pub-crawl") // should correspond to APP_ID env variable
                 .clientKey("GettingLitInMobileApps2020")  // set explicitly unless clientKey is explicitly configured on Parse server
                 .server("https://cs480-pub-crawl.herokuapp.com/parse").build());
+
+        // Register parse models
+        ParseObject.registerSubclass(Event.class);
     }
 }
