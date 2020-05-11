@@ -8,11 +8,8 @@ import com.parse.ParseObject;
 public class ParseApplication extends Application
 {
     @Override
-    public void onCreate()
-    {
+    public void onCreate() {
         super.onCreate();
-
-
 
         // set applicationId, and server server based on the values in the Heroku settings.
         // clientKey is not needed unless explicitly configured
@@ -21,5 +18,8 @@ public class ParseApplication extends Application
                 .applicationId("cs480-pub-crawl") // should correspond to APP_ID env variable
                 .clientKey("GettingLitInMobileApps2020")  // set explicitly unless clientKey is explicitly configured on Parse server
                 .server("https://cs480-pub-crawl.herokuapp.com/parse").build());
+
+        // Register parse models
+        ParseObject.registerSubclass(Event.class);
     }
 }
