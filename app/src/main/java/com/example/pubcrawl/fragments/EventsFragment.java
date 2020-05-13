@@ -16,6 +16,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.example.pubcrawl.Event;
 import com.example.pubcrawl.EventsAdapter;
 import com.example.pubcrawl.R;
+import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.parse.FindCallback;
 import com.parse.ParseException;
 import com.parse.ParseQuery;
@@ -30,6 +31,7 @@ public class EventsFragment extends Fragment {
 
     public static final String TAG = "EventsFragment";
     private RecyclerView rvEvents;
+    private FloatingActionButton btnCreate;
     protected EventsAdapter adapter;
     protected List<Event> allEvents;
 
@@ -48,6 +50,7 @@ public class EventsFragment extends Fragment {
     public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
         rvEvents = view.findViewById(R.id.rvEvents);
+        btnCreate = view.findViewById(R.id.btnCreate);
         allEvents = new ArrayList<>();
         adapter = new EventsAdapter(getContext(), allEvents);
 
@@ -56,6 +59,13 @@ public class EventsFragment extends Fragment {
         // set the layout manager on the recyclerview
         rvEvents.setLayoutManager(new LinearLayoutManager(getContext()));
         queryEvents();
+
+        btnCreate.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                // TODO: redirect to screen that lets you create an event
+            }
+        });
     }
 
     protected void queryEvents() {

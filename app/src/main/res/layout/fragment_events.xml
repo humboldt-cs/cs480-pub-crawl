@@ -12,4 +12,16 @@
         android:layout_height="match_parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/btnCreate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|right"
+        android:scaleType="fitXY"
+        android:layout_margin="15dp"
+        android:clickable="true"
+        android:src="@android:drawable/ic_menu_add"
+        app:borderWidth="0dp"
+        app:useCompatPadding="true"/>
 </FrameLayout>
