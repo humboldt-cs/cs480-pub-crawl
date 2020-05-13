@@ -57,7 +57,7 @@ dependencies {
     implementation "com.github.hotchemi:permissionsdispatcher:$permissionDispatcherVersion"
     implementation 'com.google.maps.android:android-maps-utils:0.5+'
     annotationProcessor "com.github.hotchemi:permissionsdispatcher-processor:$permissionDispatcherVersion"
-    implementation 'com.parse:parse-android:1.16.3'
+   // implementation 'com.parse:parse-android:1.16.3'
 }
 
 repositories {

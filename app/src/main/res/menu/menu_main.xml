@@ -2,6 +2,9 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <group android:checkableBehavior="single">
         <item
+            android:id="@+id/nav_map"
+            android:title="Map" />
+        <item
             android:id="@+id/nav_event_planner"
             android:title="@string/schedule" />
         <item
